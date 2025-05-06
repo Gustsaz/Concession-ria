@@ -1,0 +1,1 @@
+Select Nome_modelo from Modelos_tb where Nome_modelo != 'PALIO'

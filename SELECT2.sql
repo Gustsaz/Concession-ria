@@ -1,0 +1,1 @@
+Select pais_origem from Marcas_tb 
